@@ -1,0 +1,2 @@
+## Multiple Linear Regression
+To transition to a multi-variable analysis, we use the Global Daily Weather Data(2015–2024) dataset from Kaggle. This dataset includes wind speed (wspd), precipitation(prcp), and pressure (pres) alongside temperature, making it perfect for Multiple Linear Regression. The goal is to Predict the Average Temperature using both Date and Wind Speed to see if wind conditions have a measurable impacton daily heat.
