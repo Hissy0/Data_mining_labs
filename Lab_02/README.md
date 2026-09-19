@@ -1,2 +1,2 @@
-Linear regression to model relationships and predict outcomes. You will use the Daily Temperature of Major Cities dataset to
-experience climate analysis. The dataset contains over 2 million records spanning from 1995 to 2020, covering major cities globally. This dataset include a bunch of information such as the Region, Country, State, City, Month, Day, Year, and AvgTemperature.
+## Linear regression to model relationships and predict outcomes
+You will use the Daily Temperature of Major Cities dataset to experience climate analysis. The dataset contains over 2 million records spanning from 1995 to 2020, covering major cities globally. This dataset include a bunch of information such as the Region, Country, State, City, Month, Day, Year, and AvgTemperature.
